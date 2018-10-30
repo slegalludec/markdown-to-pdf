@@ -4,5 +4,5 @@ RUN yarn add mermaid --save
 
 RUN yarn add markdown-document --save
 
-# CMD yarn markdown-document generate
+CMD yarn markdown-document generate
 # extra
